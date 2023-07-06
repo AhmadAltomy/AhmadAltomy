@@ -1,16 +1,22 @@
-### Hi there 👋
+- 👋 Hi, I’m @AhmadAltomy
+- 👀 I’m interested in "Coding, Mobile Application, Microservices, JavaScript, Golang"
+- 📫 How to reach me "ahmad.altomy@ambianze.com"
 
-<!--
-**AhmadAltomy/AhmadAltomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Todoist Stats
 
-Here are some ideas to get you started:
+<!-- TODO-IST:START -->
+🏆  85,013 Karma Points           
+🌸  Completed 22 tasks today           
+✅  Completed 9,454 tasks so far           
+⏳  Longest streak is 40 days
+<!-- TODO-IST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AhmadAltomy&left_color=green&right_color=red)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadAltomy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmadAltomy)](https://github.com/ryo-ma/github-profile-trophy)
